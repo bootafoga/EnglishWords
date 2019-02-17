@@ -81,7 +81,7 @@ public class Start extends AppCompatActivity implements View.OnClickListener {
         TextView trans = (TextView) findViewById(R.id.Translate);
         trans.setText("Translate");
         Random rand = new Random();
-        int num = rand.nextInt(10);
+        int num = rand.nextInt(26);
         TextView eng = (TextView) findViewById(R.id.Word);
         eng.setText(words[num].getEng());
         Words.currentWord = num;
