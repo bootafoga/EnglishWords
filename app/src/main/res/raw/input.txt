@@ -1,0 +1,27 @@
+Artificial;Искусственный
+Gather;Собирать
+Goal;Цель
+Quite;Довольно
+Narrow;Узкий
+Rational;Разумный
+Educated;Образованный
+Mature;Зрелый
+For he was;Потому что он был
+Solve;Решать
+Went beyond;Вышел за рамки
+Purely;Чисто (только)
+Require;Требовать
+Capable;Способный
+Facet;Грань
+Conviction;Убеждение
+Scrutiny;Исследование, внимательное изучение
+Advise;Советовать
+Appear;Оказаться, появиться
+Expect;Ожидать
+Manage;Удаваться
+Offer;Предлагать
+Promise;Обещать
+Refuse;Отказаться
+Seem;Казаться
+Afford;Позволять себе что-то
+

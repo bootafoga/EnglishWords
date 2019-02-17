@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">English</string>
+    <string name="add">Add</string>
+    <string name="start">Start</string>
+    <string name="del">Del</string>
+    <string name="Try">Try</string>
+    <string name="todo">TODO</string>
+    <string name="translate">Translate</string>
+    <string name="word">Word</string>
+    <string name="eng">ENG</string>
+    <string name="ru">RU</string>
+    <string name="show">SHOW</string>
+    <string name="check">CHECK</string>
+    <string name="ok">OK</string>
+</resources>
